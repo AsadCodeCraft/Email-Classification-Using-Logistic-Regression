@@ -32,6 +32,6 @@ To run the project, follow these steps:
 
 ## Dependencies
 
-- pandas
-- scikit-learn
-- matplotlib
+- `pandas`
+- `scikit-learn`
+- `matplotlib`
